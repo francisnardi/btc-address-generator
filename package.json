@@ -8,8 +8,16 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
-  "keywords": ["bitcoin", "hd-wallet", "bip44", "bitcoinjs"],
+  "keywords": [
+    "bitcoin",
+    "hd-wallet",
+    "bip44",
+    "bitcoinjs"
+  ],
   "author": "francisnardi",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
 }
