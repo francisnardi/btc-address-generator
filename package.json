@@ -1,0 +1,15 @@
+{
+  "name": "btc-address-generator",
+  "version": "1.0.0",
+  "description": "Bitcoin HD wallet generator (BIP44) with UI",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["bitcoin", "hd-wallet", "bip44", "bitcoinjs"],
+  "author": "francisnardi",
+  "license": "MIT",
+  "type": "module"
+}
